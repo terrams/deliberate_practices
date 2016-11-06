@@ -1,4 +1,4 @@
-# This program returns a hash of people with first or last names that start with "b"
+# This program returns an array of people with first or last names that start with "b"
 
 people = [{first_name: "Wendy", last_name: "Williams"}, 
           {first_name: "Betty", last_name: "Boop"},
